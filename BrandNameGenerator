@@ -1,0 +1,8 @@
+#greeting
+print("Welcome To The Brand Name Generator ")
+#Ask for the city they grew up in.
+city=input("Which is the city you grew up in?\n")
+#Ask name of their pet
+pet=input("What is the name of your pet?\n")
+#combine both and form a brand name
+print("Your brand name could be:",city + "\t" +pet )
